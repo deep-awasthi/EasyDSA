@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="DataStructure",
+    name="EasyDSA",
     version="0.0.1",
     author="Deep Awasthi",
     author_email="da.madskull@gmail.com",
