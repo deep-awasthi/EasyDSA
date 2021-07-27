@@ -1,4 +1,4 @@
-# Python datastructure_collection
+# Python EasyDSA
 A Data structure collection package written in Python which helps developers in implementing fast and efficient algorithms.
 
 
